@@ -1,3 +1,3 @@
 # CustomInputFormat
-In order to deal with the custom delimiter in mobivans log data.
+Dealing with the custom delimiter in mobivans log data, to make it suitable when hive read them.
  
